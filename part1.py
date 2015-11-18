@@ -1,5 +1,6 @@
 # Trevor Waite
 # Week 11 Assignment
+# Collaboration with Nicole Ignasiak and Devin Simoneaux
 
 
 from BowlingGame import Game

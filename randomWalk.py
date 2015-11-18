@@ -1,5 +1,5 @@
 # Basic Structure for a Random Walk simulation
-# Dan Neumann
+# Trevor Waite
 '''
 
 You flip a coin.
